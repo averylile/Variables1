@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6092c7b6-bc0a-4300-b192-5bc0367110bd" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6092c7b6-bc0a-4300-b192-5bc0367110bd" name="Changes" comment="initial commit&#10;2nd commit">
       <change beforePath="$PROJECT_DIR$/Variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723644375610</updated>
       <workItem from="1723644378365" duration="736000" />
-      <workItem from="1723816407919" duration="800000" />
+      <workItem from="1723816407919" duration="1336000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -71,7 +70,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723645098880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit&#10;2nd commit">
+      <option name="closed" value="true" />
+      <created>1723817347541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723817347541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,7 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="initial commit&#10;2nd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit&#10;2nd commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
